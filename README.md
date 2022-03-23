@@ -1,2 +1,4 @@
 # tsp-vulnerable-app-kotlin-spring-extra
-Comeback to the sample-vulnerable-app-kotlin-spring-extra! testing with the framework.
+the official extra storage
+
+Thanks to @samoylenko for the code, [view the original github here!](https://github.com/the-scan-project/tsp-vulnerable-app-kotlin-spring)
